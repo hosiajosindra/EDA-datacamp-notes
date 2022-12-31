@@ -22,4 +22,4 @@ The following repository contains technical material regarding exploratory data 
 ### Library Used
 * empiricaldist (for more information please click [here](https://pypi.org/project/empiricaldist/)).
 
-#### I hope it will be useful someday, thankyou for seeing ! ❤️
+#### I hope this will be useful someday, thankyou for seeing ! ❤️
