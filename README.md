@@ -19,4 +19,7 @@ The following repository contains technical material regarding exploratory data 
 * Scipy
 * Statsmodels
 
+### Library Used
+* empiricaldist (for more information click [here](https://pypi.org/project/empiricaldist/)
+
 #### I hope it will be useful someday, thankyou for seeing ! ❤️
